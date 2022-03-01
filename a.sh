@@ -1,1 +1,2 @@
-aaaaiaaaaaa
+#!/bin/bash
+echo "hello"
